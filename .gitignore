@@ -1,0 +1,8 @@
+# node modules
+node_modules
+
+# MacOS desktop services store
+.DS_Store
+
+# Docs dist directory
+docs/.vuepress/dist
