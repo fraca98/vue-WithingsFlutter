@@ -61,7 +61,7 @@ WithingsHeartAPIURL withingsHeartAPIURL = WithingsHeartAPIURL.get(
 ```
 
 :::tip
-Retrieve the `signalId` info of a specific ECG recording using first [Heart - List](/guide/heart/heartv2list)
+Retrieve the `signalId` info of a specific ECG recording using first [Heart - List](/WithingsFlutter/guide/heart/heartv2list)
 :::
 
 ## Step 3: Get the data

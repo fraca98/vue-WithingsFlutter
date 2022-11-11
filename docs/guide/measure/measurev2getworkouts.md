@@ -11,7 +11,7 @@ This function seems to not return **some** data. Work in progress to understand 
 [Measure - GetWorkouts](https://developer.withings.com/api-reference#operation/measurev2-getworkouts) returns workout summaries, which are an aggregation all data that was captured during that workout.
 
 :::tip
-Use the [Measure - GetIntradayActivity](/guide/measure/measurev2getintradayactivity) to get the high frequency data used to build this summary.
+Use the [Measure - GetIntradayActivity](/WithingsFlutter/guide/measure/measurev2getintradayactivity) to get the high frequency data used to build this summary.
 :::
 
 In WithingsFlutter, the response object is expressed by the `WithingsMeasureGetWorkoutsData`. In particular, an instance of `WithingsMeasureGetWorkoutsData` has the following fields:

@@ -43,6 +43,10 @@ module.exports = {
         link: '/guide/',
       },
       {
+        text: 'pub.dev',
+        link: 'https://pub.dev/packages/withings_flutter'
+      },
+      {
         text: 'Github',
         link: 'https://github.com/fraca98/WithingsFlutter'
       }

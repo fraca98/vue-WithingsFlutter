@@ -120,12 +120,12 @@ The credentials are not stored automatically somewhere in a persistent way. You 
 :::
 
 ::: tip
-You find more informations about the `scope` field in [Authorization](/guide/authorization/authorization)
+You find more informations about the `scope` field in [Authorization](/WithingsFlutter/guide/authorization/authorization)
 :::
 
 ### Fetch a list of ECG records and Afib classification for a given period of time
 
-With your app authorized, you are now ready to fetch data from Withings. In this example, we will [fetch a list of ECG records and Afib classification for a given period of time](/guide/heart/heartv2list).
+With your app authorized, you are now ready to fetch data from Withings. In this example, we will [fetch a list of ECG records and Afib classification for a given period of time](/WithingsFlutter/guide/heart/heartv2list).
 
 Using WithingsFlutter, this is very easy. First instanciate a `WithingsHeartListDataManager` :
 

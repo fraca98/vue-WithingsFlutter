@@ -4,7 +4,7 @@
 The data are only available once a synchronization occured between the device and Withings servers (which might include synchronizing with Withings mobile application or via Withings Mobile SDK).
 :::
 
-[Heart - List](https://developer.withings.com/api-reference/#operation/heartv2-list) returns a list of ECG records and Afib classification for a given period of time. To get the full ECG signal, for a specific ECG recording, use the [Heart - Get](/guide/heart/heartv2get).
+[Heart - List](https://developer.withings.com/api-reference/#operation/heartv2-list) returns a list of ECG records and Afib classification for a given period of time. To get the full ECG signal, for a specific ECG recording, use the [Heart - Get](/WithingsFlutter/guide/heart/heartv2get).
 
 In WithingsFlutter, the response object is expressed by the `WithingsHeartListData`. In particular, an instance of `WithingsHeartListData` has the following fields:
 
